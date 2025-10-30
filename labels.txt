@@ -1,0 +1,6 @@
+apple
+banana
+orange
+can
+bread
+cookie
