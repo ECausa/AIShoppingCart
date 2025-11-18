@@ -1,6 +1,10 @@
 apple
 banana
 orange
-can
 bread
-cookie
+donut
+cake
+carrot
+broccoli
+pizza
+hot dog

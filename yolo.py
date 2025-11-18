@@ -3,6 +3,9 @@ import cv2
 
 # Load YOLOv8 model
 model = YOLO("yolov8n.pt")
+class_names = model.names
+# print("List of labels (class names):")
+# print(class_names)
 
 # Open camera (1 = default webcam for Sams MacBook)
 cap = cv2.VideoCapture(0)
