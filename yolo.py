@@ -34,13 +34,26 @@ while True:
             
             # check for macthing items
             if label in filterLables:
-               if "apple" in label:
-                   print("apple price $0.75/lb")
-               if "banana" in label:
-                   print("banana price $0.54/lb")
-               if "orange" in label:
-                   print("orange price $1.33/lb")
-
+                if "apple" in label:
+                    print("apple price $0.75/lb")
+                if "banana" in label:
+                    print("banana price $0.54/lb")
+                if "orange" in label:
+                    print("orange price $1.33/lb")
+                if "bread" in label:
+                    print("bread price is $2.80")
+                if "donut" in label:
+                    print("donut price is $2.00")
+                if "cake" in label:
+                    print("cake price is $15.00")
+                if "carrot" in label:
+                    print("$2.50")
+                if "broccoli" in label:
+                    print("$1.90")
+                if "pizza" in label:
+                    print("$9.00")
+                if "hot dog" in label:
+                    print("$5.00")
 
 
             # Draw rectangle + label
