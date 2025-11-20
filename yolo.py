@@ -47,13 +47,13 @@ while True:
                 if "cake" in label:
                     print("cake price is $15.00")
                 if "carrot" in label:
-                    print("$2.50")
+                    print("carrot price is $2.50")
                 if "broccoli" in label:
-                    print("$1.90")
+                    print("broccoli price is $1.90")
                 if "pizza" in label:
-                    print("$9.00")
+                    print("pizza price is $9.00")
                 if "hot dog" in label:
-                    print("$5.00")
+                    print("hot dog price is $5.00")
 
 
             # Draw rectangle + label
